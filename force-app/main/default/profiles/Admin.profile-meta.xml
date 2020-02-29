@@ -465,7 +465,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>FieldServiceAccess</name>
+        <!-- <name>FieldServiceAccess</name> -->
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -741,7 +741,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SendExternalEmailAvailable</name>
+        <!-- <name>SendExternalEmailAvailable</name> -->
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
